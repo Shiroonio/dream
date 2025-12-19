@@ -1,1 +1,61 @@
-# dream
+<!DOCTYPE html>
+<html>
+<meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  
+  <link rel="stylesheet" href="https://htmlku.com/mangats/style.css"><script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
+  
+<head>
+<title>dari amay </title>
+</head>
+<body>
+	
+   <!-- Ganti Audio di sini -->
+   <audio src="https://shiroonio.github.io/music/alltowell.mp3" id="linkmp3" class="sembunyi"></audio>
+   
+   <div id="bodyblur">
+     <!-- Wallpaper --><img src="https://shiroonio.github.io/wallpaper/ungu.jpeg" id="wallpaper"/><div id="beneranblur"></div>
+   </div>
+   
+   <div id='Content'>
+
+     <p id="ket">sesuai janji semalam </p>
+   <div><div id="loveIn" class="awalan">
+     <svg class='line' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><g transform='translate(2.000000, 2.000000)'><path d='M9.27542857,0.714285714 C14.0030476,0.714285714 17.836381,4.54666667 17.836381,9.2752381 C17.836381,14.0038095 14.0030476,17.8361905 9.27542857,17.8361905 C4.54685714,17.8361905 0.71447619,14.0038095 0.71447619,9.2752381 C0.71447619,4.54666667 4.54685714,0.714285714 9.27542857,0.714285714 Z'></path><path d='M17.8989524,16.487619 C18.678,16.487619 19.3094286,17.12 19.3094286,17.8980952 C19.3094286,18.6780952 18.678,19.3095238 17.8989524,19.3095238 C17.1199048,19.3095238 16.4875238,18.6780952 16.4875238,17.8980952 C16.4875238,17.12 17.1199048,16.487619 17.8989524,16.487619 Z'></path></g></svg>
+     <label>dari amayy!!!</label>
+   </div></div>
+     <p id="kot" class="sembunyi"><a href="https://bit.ly/htmlfeeldream" target="_blank">Lihat Script Lainnya</a></p>
+
+     <div class="kumpulanstiker">
+         <!-- Stiker untuk Konten -->
+         <img src="https://shiroonio.github.io/gif/ba.gif" id="fotostiker"/>
+         <img src="https://shiroonio.github.io/gif/muah.gif" id="fotostiker2"/>
+         <img src="https://shiroonio.github.io/gif/kecup.gif" id="fotostiker3"/>
+         <img src="https://shiroonio.github.io/gif/salto.gif" id="fotostiker4"/>
+         <img src="https://shiroonio.github.io/gif/gym.gif" id="fotostiker5"/>
+         <img src="https://shiroonio.github.io/gif/semangat.gif" id="fotostiker6"/>
+         <img src="https://shiroonio.github.io/gif/nangis.gif" id="fotostiker7"/>
+         <img src="https://shiroonio.github.io/gif/bungkuk.gif" id="fotostiker8"/>
+     </div>
+     
+     <div><blockquote id='bq' data-text='&#9829;'>
+
+       <!-- Konten Isi -->
+       <p id="kalimat">hai <b class="merahmuda">zikra</b>! ganteng</p>
+       <p id="kalimat1">kamu ga pernah patah semangat ya? <br>heran deh,semangat mulu! <br>
+       <p id="kalimat2">kamu harus percaya sama pilihanmu <br>semua pilihan ada akibatnya <br> bahkan saat ga memilih </p>
+       <p id="kalimat3">jalan aja dulu, ga perlu ragu <br>apapun hasilnya, kamu udah lakuin yang terbaik </p>
+       <p id="kalimat4">pinter banget si kamu?!, <br>apa yang ga kamu bisa?!</p>
+       <p id="kalimat5">aku bangga sama kamu <br>jangan merasa sendiri ya! aku selalu di sini! </p>
+       <p id="kalimat6ngetik"><b class='garismerah'>Ngomong-ngomong,</b> kalau dunia butuh seseorang untuk dijadikan alasan <br><br> "kenapa hal-hal baik tetap ada?",<br><br> aku punya jawabannya!!! <br><br><b class="merahmuda"> satu orang itu adalah ZIKRA! </b></p>
+       
+       <!-- Tombol Lanjut -->
+       <p id="opsL">Klik untuk lanjut</p>
+       <div class="progress-bar-container"><div id="progress-bar" class="progress-bar"></div></div>
+       
+     </blockquote></div>
+     
+   </div>
+
+<script src="https://htmlku.com/mangats/script.js"></script>
+</body>
+</html>
